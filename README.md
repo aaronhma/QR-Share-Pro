@@ -12,8 +12,8 @@ _**iPhone 8** or later running **iOS 16** or later required to download QR Share
 
 Thank you for taking the time to improve the best QR code app on the App Store!
 
-- 💡 [Feature Request](https://github.com/Visual-Studio-Coder/QR-Share-Pro/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
-- 🐞 [Report a Bug](https://github.com/Visual-Studio-Coder/QR-Share-Pro/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
+- 💡 [Feature Request](https://github.com/topgapps/QR-Share-Pro/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+- 🐞 [Report a Bug](https://github.com/topgapps/QR-Share-Pro/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
 
 ## App Features
 
