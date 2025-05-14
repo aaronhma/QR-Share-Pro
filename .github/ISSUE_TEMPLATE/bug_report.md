@@ -3,11 +3,11 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: 'bug'
-assignees: 'aaronhma, Visual-Studio-Coder'
+assignees: 'aaronhma'
 
 ---
 
-🚨🚨🚨 Before submitting, ensure that you're on the [latest app version ↗](https://apps.apple.com/us/app/qr-share-pro/id6479589995) for the latest bug fixes and stability improvements. 🚨🚨🚨
+🚨🚨🚨 Before submitting, ensure that you're on the latest app version for the latest bug fixes and stability improvements. 🚨🚨🚨
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -27,8 +27,8 @@ If applicable, add screenshots or videos to help explain your problem.
 
 **Device Info (please complete the following information):**
 
-- Device: [e.g. **iPhone 15 Pro Max**]
-- OS: [e.g. **iOS 17.5**]
+- Device: [e.g. **iPhone 16 Pro Max**]
+- OS: [e.g. **iOS 18.5**]
 
 <details>
 
@@ -65,7 +65,7 @@ Add any other context about the problem here.
 
 <summary>Contributor Agreement (required)</summary>
 
-By submitting this bug report, you agree to our [Code of Conduct](https://github.com/Visual-Studio-Coder/QR-Share-Pro/blob/master/CODE_OF_CONDUCT.md) and grant us a worldwide, royalty-free, non-sublicensable, perpetual, irrevocable license to use, reproduce, distribute, and display the content for eternity, under our [LICENSE](https://github.com/Visual-Studio-Coder/QR-Share-Pro/blob/master/LICENSE).
+By submitting this bug report, you agree to our [Code of Conduct](https://github.com/topgapps/QR-Share-Pro/blob/master/CODE_OF_CONDUCT.md).
 
 You may choose to remove this section upon reading & agreeing to this terms.
 
